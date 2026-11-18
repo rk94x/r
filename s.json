@@ -1,0 +1,11 @@
+{
+  "Servers": [
+    {
+      "Name": "My Rust 2024",
+      "IP": "147.185.221.211",
+      "Port": 51673,
+      "QueryPort": 51781,
+      "Official": true
+    }
+  ]
+}
